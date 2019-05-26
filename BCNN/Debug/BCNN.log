@@ -1,0 +1,3 @@
+﻿  BCNN.cpp
+E:\Cplus\Function\BCNN\BCNN.cpp(31): warning C4715: 'BCNN': not all control paths return a value
+  BCNN.vcxproj -> E:\Cplus\ConsoleApplication1\Debug\BCNN.exe
